@@ -21,6 +21,14 @@
 
 ---
 
+## 📸 Screenshots
+
+| Deep Focus Timer | Adaptive Reader | Task Decomposer |
+|:---:|:---:|:---:|
+| ![Deep Focus Timer](assets/screenshot-timer.png) | ![Adaptive Reader](assets/screenshot-reader.png) | ![Task Decomposer](assets/screenshot-tasks.png) |
+
+---
+
 ## Table of Contents
 
 - [Features](#-features)
@@ -246,6 +254,12 @@ FocusFlow follows a strict **3-Layer Architecture** on the backend, with the Rea
 │                      └──────────────────┘                           │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+### UML Class Diagram
+
+![FocusFlow UML Class Diagram](assets/focusflow-uml.png)
 
 ---
 
