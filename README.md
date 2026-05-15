@@ -36,7 +36,6 @@
 - [Getting Started](#-getting-started)
 - [System Architecture](#-system-architecture)
 - [UI Design System](#-ui-design-system)
-- [Offline & Graceful Degradation](#-offline--graceful-degradation)
 - [Roadmap](#-roadmap)
 
 ---
@@ -382,19 +381,6 @@ html.dark {
 ```
 
 [↑ Back to top](#table-of-contents)
-
----
-
-## 🔌 Offline & Graceful Degradation
-
-FocusFlow is designed to work fully client-side if the backend is unavailable:
-
-| Feature | Online Behavior | Offline Behavior |
-|---|---|---|
-| **Timer** | Synced with `TimerEngineService` via polling | Runs locally in browser using `useRef` interval |
-| **Task Manager** | Persisted in backend memory | Works in React local state |
-| **Adaptive Reader** | Fully client-side | No change — always client-side |
-| **Re-sync** | `GET /api/focus/timer` polled every 10 seconds | Auto-resumes sync when backend comes back online |
 
 ---
 
