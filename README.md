@@ -419,26 +419,6 @@ FocusFlow is designed to work fully client-side if the backend is unavailable:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! To get started:
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m 'feat: add your feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Open a Pull Request
-
-Please follow the existing code style and keep PRs focused on a single concern.
-
----
-
-## 📄 License
-
-FocusFlow is released under the [MIT License](LICENSE).
-
----
-
 <div align="center">
   <sub>Built with focus. ↺</sub>
 </div>
