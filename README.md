@@ -21,15 +21,6 @@
 
 ---
 
-## Project Status
-
-[![Build](https://img.shields.io/github/actions/workflow/status/l4hgs/FocusFlow/dotnet.yml?label=Backend%20Build&style=flat-square)](https://github.com/l4hgs/FocusFlow/actions)
-[![Frontend](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/l4hgs/FocusFlow)
-[![Backend](https://img.shields.io/badge/Backend-ASP.NET%20Core%20(.NET%2010)-512BD4?style=flat-square&logo=dotnet)](https://github.com/l4hgs/FocusFlow)
-[![Offline Ready](https://img.shields.io/badge/Offline-Graceful%20Degradation-green?style=flat-square)](#-offline--graceful-degradation)
-
----
-
 ## Table of Contents
 
 - [Features](#-features)
