@@ -10,7 +10,7 @@
     <a href="#-tech-stack">Tech Stack</a> •
     <a href="#-getting-started">Getting Started</a> •
     <a href="#-system-architecture">Architecture</a> •
-    <a href="#-ui-design-system">UI Design</a> •
+    <a href="#-ui-design-system">UI Design</a> 
   </p>
 </div>
 
