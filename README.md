@@ -50,7 +50,6 @@
 - [Offline & Graceful Degradation](#-offline--graceful-degradation)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
