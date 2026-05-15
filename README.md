@@ -5,12 +5,6 @@
   <h4>A distraction-free, Neumorphic productivity suite for deep work — built with ASP.NET Core and React.</h4>
   <br>
 
-  [![MIT License](https://img.shields.io/badge/License-MIT-gray?style=flat-square)](LICENSE)
-  [![.NET 10](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
-  [![React 18](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org/)
-  [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-
   <br>
 
   <p align="center">
