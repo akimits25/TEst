@@ -5,8 +5,6 @@
   <h4>A distraction-free, Neumorphic productivity suite for deep work — built with ASP.NET Core and React.</h4>
   <br>
 
-  <br>
-
   <p align="center">
     <a href="#-features">Features</a> •
     <a href="#-tech-stack">Tech Stack</a> •
