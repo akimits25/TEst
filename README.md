@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="focusflow-logo.jpg" alt="FocusFlow Logo" width="180" />
+  <img src="focusflow-images/focusflow-logo.jpg" alt="FocusFlow Logo" width="180" />
   <h1>↺ &nbsp;FocusFlow</h1>
   <h4>A distraction-free, Neumorphic productivity suite for deep work — built with ASP.NET Core and React.</h4>
 
@@ -25,7 +25,7 @@
 
 | Deep Focus Timer | Adaptive Reader | Task Decomposer |
 |:---:|:---:|:---:|
-| ![Deep Focus Timer](assets/screenshot-timer.png) | ![Adaptive Reader](assets/screenshot-reader.png) | ![Task Decomposer](assets/screenshot-tasks.png) |
+| ![Deep Focus Timer](focusflow-images/screenshot-timer.png) | ![Adaptive Reader](focusflow-images/screenshot-reader.png) | ![Task Decomposer](focusflow-images/screenshot-tasks.png) |
 
 ---
 
@@ -259,7 +259,7 @@ FocusFlow follows a strict **3-Layer Architecture** on the backend, with the Rea
 
 ### UML Class Diagram
 
-![FocusFlow UML Class Diagram](assets/focusflow-uml.png)
+![FocusFlow UML Class Diagram](focusflow-images/focusflow-uml.png)
 
 ---
 
