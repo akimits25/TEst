@@ -11,7 +11,6 @@
     <a href="#-getting-started">Getting Started</a> •
     <a href="#-system-architecture">Architecture</a> •
     <a href="#-ui-design-system">UI Design</a> •
-    <a href="#-contributing">Contributing</a>
   </p>
 </div>
 
@@ -41,7 +40,6 @@
 - [UI Design System](#-ui-design-system)
 - [Offline & Graceful Degradation](#-offline--graceful-degradation)
 - [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
 
 ---
 
